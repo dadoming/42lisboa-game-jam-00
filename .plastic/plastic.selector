@@ -1,0 +1,4 @@
+repository "game_jam_00_v2@game_jam_42lisboa@cloud"
+  path "/"
+    br "/main"
+    co "/main"
